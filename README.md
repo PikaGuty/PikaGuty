@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/78063271/157512721-76c71f70-c71e-4d80-b055-19376e0d8dc1.gif" width=100 heigth=100/>
 
 
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PikaGuty&theme=github_dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PikaGuty&theme=github-dark-blue)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PikaGuty&show_icons=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
