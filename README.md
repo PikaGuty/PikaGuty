@@ -1,6 +1,7 @@
 [CV](https://pikaguty.github.io/) 
-<img src="https://user-images.githubusercontent.com/78063271/157510512-b50cd9c5-694b-4019-ac31-67c150a4214e.gif" width=90 heigth=90 />
-<img src="https://user-images.githubusercontent.com/78063271/157512721-76c71f70-c71e-4d80-b055-19376e0d8dc1.gif" width=100 heigth=100/> 
+<img src="https://user-images.githubusercontent.com/78063271/197093062-266fb132-24db-4240-a83e-b7bb787518fd.gif" width=100 heigth=100 />
+<!-- <img src="https://user-images.githubusercontent.com/78063271/157510512-b50cd9c5-694b-4019-ac31-67c150a4214e.gif" width=90 heigth=90 />
+<img src="https://user-images.githubusercontent.com/78063271/157512721-76c71f70-c71e-4d80-b055-19376e0d8dc1.gif" width=100 heigth=100/> -->
 
 
 
