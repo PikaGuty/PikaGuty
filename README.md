@@ -9,7 +9,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PikaGuty&theme=github-dark-blue)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PikaGuty&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)</center>
+
 
 
 
