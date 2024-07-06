@@ -27,7 +27,7 @@
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PikaGuty&theme=elegant)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PikaGuty&theme=elegant&border_radius=4.8&card_width=500)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PikaGuty&show_icons=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
