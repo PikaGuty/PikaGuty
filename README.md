@@ -32,7 +32,7 @@
   <tr style="border: none;">
     <td align="center" style="border: none;">
       <div align="left">
-        <img width=500 src="https://streak-stats.demolab.com?user=PikaGuty&theme=holi-theme&border_radius=20&mode=weekly" alt="GitHub Streak" /><br/>
+        <img width=500 src="https://streak-stats.demolab.com?user=PikaGuty&theme=holi-theme&border_radius=20&mode=daily" alt="GitHub Streak" /><br/>
         <img width=500 src="https://github-readme-stats.vercel.app/api?username=PikaGuty&show_icons=true&theme=holi&rank_icon=github&border_radius=20" alt="readme stats" />
       </div>
     </td>
