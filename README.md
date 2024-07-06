@@ -45,6 +45,14 @@
 </table>
 </div>
 
+<br>
+<br>
+
+<hr/>
+
+<br>
+<br>
+
 <div align="center">
     <img width=1000 src="https://github-profile-trophy.vercel.app/?username=alexmaest&theme=juicyfresh" alt="readme stats" />
 </div>
