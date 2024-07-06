@@ -32,13 +32,13 @@
   <tr style="border: none;">
     <td align="center" style="border: none;">
       <div align="left">
-        <img width=500 src="https://streak-stats.demolab.com?user=PikaGuty&theme=elegant&border_radius=20&mode=weekly" alt="GitHub Streak" /><br/>
-        <img width=500 src="https://github-readme-stats.vercel.app/api?username=PikaGuty&show_icons=true&theme=elegant&rank_icon=github&border_radius=20" alt="readme stats" />
+        <img width=500 src="https://streak-stats.demolab.com?user=PikaGuty&theme=holi-theme&border_radius=20&mode=weekly" alt="GitHub Streak" /><br/>
+        <img width=500 src="https://github-readme-stats.vercel.app/api?username=PikaGuty&show_icons=true&theme=holi&rank_icon=github&border_radius=20" alt="readme stats" />
       </div>
     </td>
     <td align="center" style="border: none;">
       <div>
-        <img width=310 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PikaGuty&hide=HTML&langs_count=8&layout=donut-vertical&theme=elegant&border_radius=20&size_weight=1&count_weight=1&exclude_repo=github-readme-stats" alt="top langs" /><br/>
+        <img width=310 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PikaGuty&hide=HTML&langs_count=8&layout=donut-vertical&theme=holi&border_radius=20&size_weight=1&count_weight=1&exclude_repo=github-readme-stats" alt="top langs" /><br/>
       </div>
     </td>
   </tr>
