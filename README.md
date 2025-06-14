@@ -10,7 +10,7 @@
 
 <br>
 <br>
-
+ 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,mysql,redis,postgres,mongodb&perline=15"><br>
     <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,figma,npm,py,react,angular,vite,go,html,css&perline=15"><br>
